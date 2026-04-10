@@ -1,0 +1,6 @@
+variables:
+  - name: app_name
+  - name: port
+
+template_files:
+  - "**/*.tmpl"
